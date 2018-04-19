@@ -6,7 +6,7 @@ This is a sample react application where I use a react server and a node server 
 **Installation:**
 1. clone repo
 2. open terminal and cd into project folder 
-3. `npm install` into both the `savage-auth` and `client-side` folders
+3. run `npm install` in both the `savage-auth` and `client-side` folders
 
 **Use:**
 1. in the `savage-auth` folder run `node server.js` to start the node server and navigate to `localhost: 8080`
