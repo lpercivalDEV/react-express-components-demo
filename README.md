@@ -1,5 +1,5 @@
 # react-express-components-demo
-This is a sample react application where I use a react server and a node server proxy to pull usernames and messages from a database populate them to the DOM.
+This is a sample react application where I use a react server and a node server proxy to pull usernames and messages from a database and populate them on the DOM.
 
 **TECH USED:** HTML, CSS, JavaScript, Node.js, React, JSX, MongoDB
 
